@@ -12,7 +12,7 @@ public class questao1 {
 		ArrayList<Integer> lista = new ArrayList<Integer>();
 		
 		int valor1 = 0;
-		int valor2 = 1;  //(0, 1, 1, 2, 3, 5, 8, 13, 21, 34...)
+		int valor2 = 1; 
 		
 		lista.add(valor1);
 		lista.add(valor2);
@@ -26,6 +26,6 @@ public class questao1 {
 			System.out.print(lista.get(i) + ",");
 		}
 		System.out.println();
-		System.out.print(lista.contains(numero)? "o numero pertence a sequencia.": "o numero não pertence a sequencia.");
+		System.out.print(lista.contains(numero)? "o número pertence a sequência.": "o numero não pertence a sequência.");
 	}
 }
