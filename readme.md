@@ -1,12 +1,12 @@
 <h3>Repostas das questoes 3, 4 e 5.</h3>
 
-3) Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
+**3)** Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?<br>
 **Resposta:**<br>
 Soma = 77<br>
 Tambem diponibilizei o código.<br>
 
-4) Descubra a lógica e complete o próximo elemento:
+**4)** Descubra a lógica e complete o próximo elemento:
 
 a) 1, 3, 5, 7, **[9]** <br>
 b) 2, 4, 8, 16, 32, 64, **[128]** <br>
@@ -15,7 +15,7 @@ d) 4, 16, 36, 64, **[100]** <br>
 e) 1, 1, 2, 3, 5, 8, **[13]** <br>
 f) 2,10, 12, 16, 17, 18, 19, **[20]** <br>
 
-5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. 
+**5)** Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. 
 Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. 
 Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada? <br>
 
