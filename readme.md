@@ -2,8 +2,8 @@
 
 3) Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?<br>
-<h5>Resposta: </h5>
-Soma = 77
+**Resposta:**<br>
+Soma = 77<br>
 Tambem diponibilizei o código.<br>
 
 4) Descubra a lógica e complete o próximo elemento:
@@ -19,7 +19,7 @@ f) 2,10, 12, 16, 17, 18, 19, **[20]** <br>
 Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. 
 Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada? <br>
 
-<h5>Resposta: </h5>
+**Resposta:**
 Partindo do princípio que todas as luzes estão desligas, e que eu tenho as salas com as luzes SL1, SL2 E SL3 e os interruptores A, B e C. <br>
 
 Eu ligo o interruptor 'A', deixei ele ligado por MEIA HORA e depois o APAGUEI, podemos deduzir e a lâmpada que faz referencia a ele está 'APAGADA E QUENTE'. <br>
