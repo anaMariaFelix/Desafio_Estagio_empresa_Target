@@ -18,7 +18,7 @@ public class Questao2 {
 				cont ++;
 			}
 		}
-		System.out.println(existeLetraA == true? "Lentra 'A' existente": "Lentra 'A' não existente");
+		System.out.println(existeLetraA == true? "Lentra 'A' existente": "Letra 'A' não existente");
 		System.out.print("Quantidade de letras 'A': " + cont );
 	}
 
